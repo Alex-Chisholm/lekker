@@ -1,5 +1,5 @@
 ---
-title: "lekker"
+title: "heel lekker"
 listing:
   contents: posts
   sort: "date desc"
