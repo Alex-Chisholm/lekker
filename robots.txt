@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Alex-Chisholm/lekker/sitemap.xml
+Sitemap: https://Alex-Chisholm.github.io/lekker/sitemap.xml
